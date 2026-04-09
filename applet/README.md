@@ -1,1 +1,1 @@
-applet programes upload in this folder
+applet programes are upload in this folder
